@@ -1,4 +1,6 @@
 cash = eval(input("Enter total deposit amount..."))
+print("Here's the list breakdown of your deposit:")
+print("\n")
 
 onethousand = 1000
 fivehundred = 500
@@ -47,4 +49,5 @@ print("10", "-" , ten1)
 print("5", "-" , five5)
 print("1", "-" , one1)
 
+print("\nThank you for trusting Yiran's Wife National Bank")
 #print("asawa pa rin ni yiran")
